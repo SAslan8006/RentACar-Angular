@@ -1,0 +1,15 @@
+.list-group {
+  margin: 10px;
+  width: 200px;
+}
+
+
+.active {
+  background: rgb(15, 0, 231) !important;
+  border-color: rgb(15, 0, 231);
+}
+
+
+.list-group-item {
+  font-weight: 500;
+}
